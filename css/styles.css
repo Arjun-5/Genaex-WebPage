@@ -4,9 +4,14 @@
 }
 
 .container-fluid{
-    padding: 2% 12%;
+    padding: 2% 7%;
 }
 
 .navbar-brand{
  font-size: 3rem;
 }
+
+.navbar-nav > li{
+    padding-left:25px;
+    padding-right:25px;
+  }
